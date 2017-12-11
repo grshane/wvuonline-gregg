@@ -1,0 +1,6 @@
+name: wvuonline-gregg
+recipe: pantheon
+config:
+  framework: drupal8
+  site: wvuonline-gregg
+  id: ca957a54-48df-4b37-8282-66ca5ecb8514
